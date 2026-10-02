@@ -10,9 +10,9 @@ You can also find and edit the project on [EasyEDA / OSHWLab](https://oshwlab.co
 
 ## Board Preview
 
-![3D render back view] <img width="600" height="463" alt="084258" src="https://github.com/user-attachments/assets/57353786-5a70-4028-9e67-45ff7ed90819" />
+<img width="600" height="463" alt="084258" src="https://github.com/user-attachments/assets/57353786-5a70-4028-9e67-45ff7ed90819" />
 
-![3D render top view] <img width="600" height="453" alt="083737" src="https://github.com/user-attachments/assets/55cbfb07-9956-4f72-8afa-209cd54f2a3b" />
+<img width="600" height="453" alt="083737" src="https://github.com/user-attachments/assets/55cbfb07-9956-4f72-8afa-209cd54f2a3b" />
 
 
 ## Hardware
