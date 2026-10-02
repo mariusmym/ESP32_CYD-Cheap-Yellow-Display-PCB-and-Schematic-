@@ -37,6 +37,9 @@ Found a mistake or made an improvement? Feel free to open an issue or a pull req
 
 Make it better and share your work!
 
+## Donate ☕
+If you'd like to say thanks or buy me a coffee, a **[PayPal donation](https://www.paypal.com/donate/?hosted_button_id=KHR7DYJP2Z8QJ)** is always appreciated!
+
 ## License
 
 This project is shared under **CC BY-SA 4.0**.
