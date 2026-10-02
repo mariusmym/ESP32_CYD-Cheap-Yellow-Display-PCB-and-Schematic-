@@ -10,8 +10,10 @@ You can also find and edit the project on [EasyEDA / OSHWLab](https://oshwlab.co
 
 ## Board Preview
 
-![3D render back view](Images/084258.png)
-![3D render top view](Images/083737.png)
+![3D render back view] <img width="600" height="463" alt="084258" src="https://github.com/user-attachments/assets/57353786-5a70-4028-9e67-45ff7ed90819" />
+
+![3D render top view] <img width="600" height="453" alt="083737" src="https://github.com/user-attachments/assets/55cbfb07-9956-4f72-8afa-209cd54f2a3b" />
+
 
 ## Hardware
 
@@ -20,17 +22,6 @@ The design includes an ESP32-WROOM-32, an ILI9341 display interface, an XPT2046 
 Li-Po support and USB-C are improvements I'd like to explore as the project develops (if I will ever have the time to do it).
 
 ## Files
-
-```text
-ESP32_CYD/
-├── README.md
-├── SCHEMATIC/   # EasyEDA schematic source and PDF
-├── PCB/         # Editable EasyEDA PCB design
-├── GERBER/      # Gerber and drill files for PCB fabrication
-├── BOM/         # Bill of materials
-├── PNP/         # Pick-and-place files for assembly
-└── Images/      # Board images, 3D renders, and photos
-```
 
 To view or modify the design online, open the [EasyEDA project](https://oshwlab.com/mariusmym/esp32_cyd_cheap_yellow_display) and select **Open in Editor** under the schematic or PCB.
 
