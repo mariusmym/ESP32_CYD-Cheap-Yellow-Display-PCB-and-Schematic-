@@ -1,12 +1,17 @@
-# ESP32 CYD — Cheap Yellow Display
+# ESP32 CYD - Cheap Yellow Display
 
 Schematic and PCB design for the **ESP32 Cheap Yellow Display (CYD)**, made in EasyEDA Standard.
 
-I started this project to make it easier to work on the CYD hardware and explore improvements such as Li-Po battery support, USB-C, and a few other changes. I'm sharing it here on GitHub to keep the design files together and make it easier for others to build on the project.
+I started this project to make it easier to work on the CYD hardware and explore improvements such as Li-Po battery support, USB-C, and a few other changes. 
 
 You can also find and edit the project on [EasyEDA / OSHWLab](https://oshwlab.com/mariusmym/esp32_cyd_cheap_yellow_display).
 
 > **Work in progress:** I haven't tested this design yet. If you decide to build it, please double-check the schematic and PCB routing before ordering boards.
+
+## Board Preview
+
+![3D render back view](Images/084258.png)
+![3D render top view](Images/083737.png)
 
 ## Hardware
 
